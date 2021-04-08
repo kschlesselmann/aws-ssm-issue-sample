@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ssm-test
+prada:
+  metadata-client:
+    base-url: https://metadata.develop.prada.cloud.otto.de
+  product-importer-client:
+    base-url: https://product-importer.develop.prada.cloud.otto.de

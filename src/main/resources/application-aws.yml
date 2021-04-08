@@ -1,0 +1,9 @@
+spring:
+  config:
+    import: "aws-parameterstore:"
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: eu-central-1
